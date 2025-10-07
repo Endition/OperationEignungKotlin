@@ -16,11 +16,11 @@ Eine Android-App auf Basis von Jetpack Compose, die dich beim Üben für mehrstu
 - **UI-Framework:** Jetpack Compose mit Material 3 Design-Komponenten und Navigation Compose.
 - **Dependency Injection:** Hilt mit `@HiltAndroidApp`-Application und Modul für die Room-Datenbank.
 - **Persistenz:** Room-Datenbank mit `questions`- und `categories`-Tabellen, TypeConverter für Fragetypen sowie umfangreichen DAO-Abfragen für Quiz, Statistiken und Verwaltung.
-- **Zielplattform:** Android 24+ mit Kotlin 2.1 und Java 21 Toolchain, getestet über Gradle Wrapper.【F:app/build.gradle.kts†L1-L43】
+- **Zielplattform:** Android 24+ mit Kotlin 2.1 und Java 21 Toolchain, getestet über Gradle Wrapper.
 
 
 ## Datenmodell
-- **Fragen (`questions`):** Enthält Fragetext, optionalen Code, bis zu vier Antworten mit Bitmaske für korrekte Optionen, Lösungsvarianten, Kategorie-Referenz sowie Zähler für richtige/falsche Antworten.【F:app/src/main/kotlin/com/example/operationeignung/data/database/entities/Question.kt†L1-L54】
+- **Fragen (`questions`):** Enthält Fragetext, optionalen Code, bis zu vier Antworten mit Bitmaske für korrekte Optionen, Lösungsvarianten, Kategorie-Referenz sowie Zähler für richtige/falsche Antworten.
 - **Kategorien (`categories`):** Eindeutige Namen, die als Fremdschlüssel bei Fragen referenziert werden.
 - **Fragetypen:** Enum `QuestionType` mit Werten `choice`, `text`, `code` und Hilfsmethoden zur Konvertierung.
 
