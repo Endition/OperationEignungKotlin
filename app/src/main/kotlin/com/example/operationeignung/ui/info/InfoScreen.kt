@@ -63,7 +63,7 @@ fun InfoScreen(
             )
         }
         Text(
-            "Diese App unterstützt dich bei der Vorbereitung auf Eignungstests im Bereich der Bundeswehr.",
+            "Diese App unterstützt dich bei der Vorbereitung auf Eignungstests.",
             style = MaterialTheme.typography.bodyMedium
         )
 
