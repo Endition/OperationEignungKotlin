@@ -34,4 +34,5 @@ Viel Erfolg beim Lernen – und Feedback ist willkommen!
 <img width="399" height="884" alt="kategorienVerwalten" src="https://github.com/user-attachments/assets/37428968-fbc8-4d69-818b-bed1df95a9d9" />
 <img width="397" height="884" alt="DatenBereinigen" src="https://github.com/user-attachments/assets/f6045557-e726-45be-b42e-6848e6d87de2" />
 <img width="397" height="888" alt="kiPromt" src="https://github.com/user-attachments/assets/8587abb4-6a35-4be8-ae84-338cba49bc14" />
-<img width="397" height="886" alt="info" src="https://github.com/user-attachments/assets/f041d704-d0be-4eb2-809d-ca61d5bcb3af" />
+<img width="402" height="889" alt="info" src="https://github.com/user-attachments/assets/2ef60925-9bab-443e-a0c3-bbc3afa01ddc" />
+
